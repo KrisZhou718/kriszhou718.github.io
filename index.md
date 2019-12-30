@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kris Zhou's Pages
 
 You can use the [editor on GitHub](https://github.com/KrisZhou718/kriszhou718.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
